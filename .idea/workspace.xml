@@ -29,7 +29,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d78e9d0-3bfc-4fc2-9619-d3570041f62b" name="Default Changelist" comment="Added bool Readline">
+    <list default="true" id="5d78e9d0-3bfc-4fc2-9619-d3570041f62b" name="Default Changelist" comment="Added Stringtotokens">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tokenizer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/tokenizer.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tokenizer.h" beforeDir="false" afterPath="$PROJECT_DIR$/tokenizer.h" afterDir="false" />
     </list>
@@ -83,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602359485737</updated>
       <workItem from="1602359486887" duration="1022000" />
-      <workItem from="1602360546007" duration="333000" />
+      <workItem from="1602360546007" duration="1559000" />
     </task>
     <task id="LOCAL-00001" summary="Added bool Readline">
       <created>1602360711104</created>
@@ -92,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602360711104</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added Stringtotokens">
+      <created>1602361067875</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602361067875</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,7 +119,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added bool Readline" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added bool Readline" />
+    <MESSAGE value="Added Stringtotokens" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Stringtotokens" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="198" key="#New_File_Extensions" timestamp="1602360603893">
@@ -126,9 +135,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="783" y="238" key="Github.UntrackedFilesDialog/0.0.1920.1080/-1920.0.1920.1040@0.0.1920.1080" timestamp="1602360103711" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1602360696267">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1602364078606">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1040@0.0.1920.1080" timestamp="1602360696267" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1040@0.0.1920.1080" timestamp="1602364078606" />
   </component>
 </project>

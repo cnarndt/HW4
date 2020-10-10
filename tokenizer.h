@@ -10,4 +10,12 @@
 // value entered is not blank, othewise false
 bool ReadLine(std::string &str);
 
-#endif //HW4_TOKENIZER_H
+
+
+unsigned StringToTokensWS(const std::string &input,std::vector<std::string> &tokens);
+
+// Determine if each token if it is an integer, identifier,
+// string, whitespace, or unknown
+void AnalyzeTokens(const std::vector<std::string> &tokens);
+
+#endif
