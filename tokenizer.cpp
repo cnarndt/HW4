@@ -17,3 +17,19 @@ bool ReadLine(std::string &str)
 
     return true;
 }
+
+unsigned StringToTokensWS(const std::string &input,std::vector<std::string> &tokens)
+{
+    std::istringstream ss(input);
+    std::string token;
+    unsigned numTokens = 0;
+
+    while (ss >> token)
+    {
+        tokens.push_back(token);
+        numTokens++;
+    }
+
+    tokens.push_back("");
+    return numTokens;
+}
